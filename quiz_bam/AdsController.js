@@ -9,8 +9,8 @@
 //*=================================================*//
 
 
-const INTERSTITIAL_PLACEMENT_ID = 'xxxxxxxxxxxx_xxxxxxxxxxxxx'; //*-------- Interstitial -------*//
-const REWARDED_PLACEMENT_ID = 'xxxxxxxxxxxx_xxxxxxxxxxxxx'; //*-------- Rewarded Video -----*//
+const INTERSTITIAL_PLACEMENT_ID = '2101379016577300_2102305829817952'; //*-------- Interstitial -------*//
+const REWARDED_PLACEMENT_ID = '2101379016577300_2102307266484475'; //*-------- Rewarded Video -----*//
 
 	
 //*=================================================*//
